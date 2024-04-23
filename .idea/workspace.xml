@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51b36ca4-294e-4bc5-8010-f891f9e86a56" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/yorosis machine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_code/ollama.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_code/openchat_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/openchat-3.5-0106" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zephyr-7b-beta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/added_tokens.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/generation_config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/model-00001-of-00003.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/model-00002-of-00003.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/model-00003-of-00003.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/model.safetensors.index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/openchat.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/special_tokens_map.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/tokenizer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/tokenizer.model" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/tokenizer_config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/added_tokens.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/all_results.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/eval_results.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/generation_config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/model-00001-of-00008.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/model-00002-of-00008.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/model-00003-of-00008.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/model-00004-of-00008.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/model-00005-of-00008.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/model-00006-of-00008.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/model-00007-of-00008.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/model-00008-of-00008.safetensors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/model.safetensors.index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/pytorch_model-00001-of-00008.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/pytorch_model-00002-of-00008.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/pytorch_model-00003-of-00008.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/pytorch_model-00004-of-00008.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/pytorch_model-00005-of-00008.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/pytorch_model-00006-of-00008.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/pytorch_model-00007-of-00008.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/pytorch_model-00008-of-00008.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/pytorch_model.bin.index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/special_tokens_map.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/tokenizer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/tokenizer.model" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/tokenizer_config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/train_results.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/trainer_state.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/training_args.bin" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main_code/ollama.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/main_code/openchat_code.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/main_process.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2fPpJJ5yx1pjqyIAbclsGiyOjWk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ollama.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/VigneshSubramani/Desktop/MAIN PROJECT/ml-service&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main_process" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="yorosis machine" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\VigneshSubramani\Desktop\AWS\yorosis machine\main_process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51b36ca4-294e-4bc5-8010-f891f9e86a56" name="Changes" comment="" />
+      <created>1713712493415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713712493415</updated>
+    </task>
+    <servers />
+  </component>
+</project>

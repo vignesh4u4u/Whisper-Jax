@@ -1,0 +1,7 @@
+transformers
+flask
+opencv-python
+torch
+torchvision
+torchaudio
+gevent
