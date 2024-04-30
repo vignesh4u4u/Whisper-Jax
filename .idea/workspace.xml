@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b36ca4-294e-4bc5-8010-f891f9e86a56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/model/test_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whisper+jax/assembly ai.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whisper+jax/whisper+jax_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whisper+jax/whisperjax diarization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/yorosis machine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/yorosis machine.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_code/ollama.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_code/oll.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_code/openchat_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_code/openchat_code.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

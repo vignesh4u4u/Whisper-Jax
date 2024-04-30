@@ -1,0 +1,26 @@
+#FROM python:3.9-bullseye
+#FROM python:3.9.18-bullseye
+FROM --platform=linux/arm64/v8 python:3.9-bullseye
+COPY repositories /etc/apk/repositories
+RUN apt-get update
+RUN pip install --upgrade pip
+RUN apt-get install -y python3-opencv
+RUN apt-get install -y openssl
+RUN curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | bash && apt-get install git-lfs -y
+WORKDIR /app
+COPY requirements.txt /app
+RUN pip3 install --no-cache-dir -r /app/requirements.txt
+RUN pip3 install ctransformers --no-binary ctransformers
+RUN python3 -m spacy download en_core_web_trf
+COPY . /app
+#RUN curl -O -J -L https://huggingface.co/deepset/bert-large-uncased-whole-word-masking-squad2/resolve/main/model.safetensors
+RUN git lfs clone https://huggingface.co/vicky4s4s/deepsets-bert-large-uncased-whole-word-masking-squad2 && mv deepsets-bert-large-uncased-whole-word-masking-squad2 /app/model
+RUN git lfs clone https://huggingface.co/vicky4s4s/all-MiniLM-L6-v2 && mv all-MiniLM-L6-v2 /app/model
+RUN git lfs clone https://huggingface.co/vicky4s4s/Llama-2-7B-Chat-GGML && mv Llama-2-7B-Chat-GGML /app/model
+RUN git lfs clone https://huggingface.co/vicky4s4s/Llama-2-7B-Chat-GGUF && mv Llama-2-7B-Chat-GGUF /app/model
+RUN git lfs clone https://huggingface.co/vicky4s4s/Mistral-7B-Instruct-v0.2-GGUF && cd Mistral-7B-Instruct-v0.2-GGUF && curl -O -J -L https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q2_K.gguf?download=true
+RUN mv Mistral-7B-Instruct-v0.2-GGUF /app/model && ls -lrt /app/model && ls -lrt /app/model/Mistral-7B-Instruct-v0.2-GGUF
+
+#RUN mv model.safetensors /app/model && ls -lrt /app/model
+ENTRYPOINT ["python3"]
+CMD ["/app/main_process.py"]
