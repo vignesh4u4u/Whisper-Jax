@@ -5,3 +5,10 @@ torch
 torchvision
 torchaudio
 gevent
+flax
+gradio
+pyannote.audio
+transformers>=4.34.0,<5.0.0
+
+
+#pip install --upgrade --no-deps --force-reinstall git+https://github.com/sanchit-gandhi/whisper-jax.git

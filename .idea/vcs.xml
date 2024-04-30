@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/model/openchat-3.5-0106" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zephyr-7b-beta" vcs="Git" />
   </component>
 </project>

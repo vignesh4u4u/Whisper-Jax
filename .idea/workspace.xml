@@ -5,65 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b36ca4-294e-4bc5-8010-f891f9e86a56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/yorosis machine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_code/ollama.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_code/openchat_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_process.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/openchat-3.5-0106" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zephyr-7b-beta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/added_tokens.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/generation_config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/model-00001-of-00003.safetensors" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/model-00002-of-00003.safetensors" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/model-00003-of-00003.safetensors" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/model.safetensors.index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/openchat.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/special_tokens_map.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/tokenizer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/tokenizer.model" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/openchat-3.5-0106/tokenizer_config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/added_tokens.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/all_results.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/eval_results.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/generation_config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/model-00001-of-00008.safetensors" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/model-00002-of-00008.safetensors" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/model-00003-of-00008.safetensors" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/model-00004-of-00008.safetensors" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/model-00005-of-00008.safetensors" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/model-00006-of-00008.safetensors" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/model-00007-of-00008.safetensors" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/model-00008-of-00008.safetensors" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/model.safetensors.index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/pytorch_model-00001-of-00008.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/pytorch_model-00002-of-00008.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/pytorch_model-00003-of-00008.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/pytorch_model-00004-of-00008.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/pytorch_model-00005-of-00008.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/pytorch_model-00006-of-00008.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/pytorch_model-00007-of-00008.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/pytorch_model-00008-of-00008.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/pytorch_model.bin.index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/special_tokens_map.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/tokenizer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/tokenizer.model" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/tokenizer_config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/train_results.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/trainer_state.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zephyr-7b-beta/training_args.bin" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/test_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whisper+jax/assembly ai.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whisper+jax/whisper+jax_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whisper+jax/whisperjax diarization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/yorosis machine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/yorosis machine.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_code/ollama.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_code/oll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_code/openchat_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_code/openchat_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +37,9 @@
     <setting file="file://$PROJECT_DIR$/main_code/ollama.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/main_code/openchat_code.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/main_process.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/whisper+jax/assembly ai.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/whisper+jax/whisper+jax_code.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/whisper+jax/whisperjax diarization.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -99,13 +55,17 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.assembly ai.executor&quot;: &quot;Run&quot;,
+    &quot;Python.first_code.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oll.executor&quot;: &quot;Run&quot;,
     &quot;Python.ollama.executor&quot;: &quot;Run&quot;,
+    &quot;Python.whisperjax diarization.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/VigneshSubramani/Desktop/MAIN PROJECT/ml-service&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/VigneshSubramani/Desktop/AWS/yorosis machine&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
